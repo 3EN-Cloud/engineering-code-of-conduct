@@ -24,9 +24,9 @@ Be respectful of other people; their time, their location, and other considerati
 
 Keep your calendar up-to-date, be on time to meetings, decline meetings you don’t plan to attend.
 
-Denote [working hours](https://support.google.com/calendar/answer/83117?hl=en#working_hours) in Calendar if you want people to constrain your meetings to them.
+Ensure that you use the Hello app to reflect your location and availability; when you are unavailable for any reason, ensure that you have updated your work calendar to reflect this, as this information is shared on our View dashboards and Hello app.
 
-Resist the temptation to have local-only meetings when remote teammates should be involved - take them to Slack, Hangouts, etc. as appropriate.
+Resist the temptation to have local-only meetings when remote teammates should be involved - take them to Teams, Slack etc. as appropriate.
 
 ## Giving and Receiving Feedback
 Give constructive, not critical feedback<sup>[3](#footnotes)</sup>. Feedback is negatively critical when it surfaces something wrong with someone or something they produced, especially without any mention of ways to make their behaviour or their product better. Critical feedback on work often looks like "you don't write enough tests" or "your code quality isn't good enough". Personal criticism can be more severe and often looks like "you should be less judgemental" or "you are a burden because you ask too many questions”. Constructive feedback is more about how a person can do better rather than what they are doing wrong. If you want someone to do something better, you should tell them what better looks like. Ask a question to get a discussion rolling, to gain context, and then if you see room for improvement give declarative feedback to that effect. This creates an environment where people understand what success looks like instead of just feeling like they are unsuccessful.
