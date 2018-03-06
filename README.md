@@ -37,7 +37,7 @@ You are not your products. Technical critiques are integral, and should be hard 
 
 Go about your review under the assumption that the decisions were made for a reason, not in a vacuum. Ask about circumstances if you’re confused.
 
-Be pragmatic, ask for context, don’t filibuster, don’t block on style not explicitly covered in DO’s style guides.
+Be pragmatic, ask for context, don’t filibuster, don’t block on style not explicitly covered in 3EN’s style guides.
 
 Code, configurations, architecture, platforms, frameworks will need to be changed. Fight for your way if you think it’s right, but not only to be right.
 
